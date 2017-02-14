@@ -1,3 +1,5 @@
+C# Form for Point Grey Camera Alignment using hough transform
+
 1: Tools>NuGetPackageManager>Package Manager Console>
 ```
 Install-Package OpenCvSharp3-AnyCPU
